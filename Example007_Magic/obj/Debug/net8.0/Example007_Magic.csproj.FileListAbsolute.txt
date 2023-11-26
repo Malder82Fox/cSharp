@@ -1,0 +1,14 @@
+/home/home_book/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic
+/home/home_book/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic.deps.json
+/home/home_book/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic.runtimeconfig.json
+/home/home_book/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic.dll
+/home/home_book/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic.pdb
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.AssemblyInfoInputs.cache
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.AssemblyInfo.cs
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.dll
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/refint/Example007_Magic.dll
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.pdb
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.genruntimeconfig.cache
+/home/home_book/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/ref/Example007_Magic.dll
