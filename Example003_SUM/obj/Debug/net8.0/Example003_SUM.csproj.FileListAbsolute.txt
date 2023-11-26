@@ -1,0 +1,14 @@
+/home/home_book/Desktop/Examples/Example003_SUM/bin/Debug/net8.0/Example003_SUM
+/home/home_book/Desktop/Examples/Example003_SUM/bin/Debug/net8.0/Example003_SUM.deps.json
+/home/home_book/Desktop/Examples/Example003_SUM/bin/Debug/net8.0/Example003_SUM.runtimeconfig.json
+/home/home_book/Desktop/Examples/Example003_SUM/bin/Debug/net8.0/Example003_SUM.dll
+/home/home_book/Desktop/Examples/Example003_SUM/bin/Debug/net8.0/Example003_SUM.pdb
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/Example003_SUM.GeneratedMSBuildEditorConfig.editorconfig
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/Example003_SUM.AssemblyInfoInputs.cache
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/Example003_SUM.AssemblyInfo.cs
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/Example003_SUM.csproj.CoreCompileInputs.cache
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/Example003_SUM.dll
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/refint/Example003_SUM.dll
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/Example003_SUM.pdb
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/Example003_SUM.genruntimeconfig.cache
+/home/home_book/Desktop/Examples/Example003_SUM/obj/Debug/net8.0/ref/Example003_SUM.dll

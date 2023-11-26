@@ -1,0 +1,14 @@
+/home/home_book/Desktop/Examples/Example005_if(else)/bin/Debug/net8.0/Example005_if(else)
+/home/home_book/Desktop/Examples/Example005_if(else)/bin/Debug/net8.0/Example005_if(else).deps.json
+/home/home_book/Desktop/Examples/Example005_if(else)/bin/Debug/net8.0/Example005_if(else).runtimeconfig.json
+/home/home_book/Desktop/Examples/Example005_if(else)/bin/Debug/net8.0/Example005_if(else).dll
+/home/home_book/Desktop/Examples/Example005_if(else)/bin/Debug/net8.0/Example005_if(else).pdb
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/Example005_if(else).GeneratedMSBuildEditorConfig.editorconfig
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/Example005_if(else).AssemblyInfoInputs.cache
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/Example005_if(else).AssemblyInfo.cs
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/Example005_if(else).csproj.CoreCompileInputs.cache
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/Example005_if(else).dll
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/refint/Example005_if(else).dll
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/Example005_if(else).pdb
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/Example005_if(else).genruntimeconfig.cache
+/home/home_book/Desktop/Examples/Example005_if(else)/obj/Debug/net8.0/ref/Example005_if(else).dll
