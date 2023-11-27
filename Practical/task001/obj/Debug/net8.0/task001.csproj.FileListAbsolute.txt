@@ -1,0 +1,14 @@
+/home/home_book/Desktop/Examples/Practical/task001/bin/Debug/net8.0/task001
+/home/home_book/Desktop/Examples/Practical/task001/bin/Debug/net8.0/task001.deps.json
+/home/home_book/Desktop/Examples/Practical/task001/bin/Debug/net8.0/task001.runtimeconfig.json
+/home/home_book/Desktop/Examples/Practical/task001/bin/Debug/net8.0/task001.dll
+/home/home_book/Desktop/Examples/Practical/task001/bin/Debug/net8.0/task001.pdb
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/task001.GeneratedMSBuildEditorConfig.editorconfig
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/task001.AssemblyInfoInputs.cache
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/task001.AssemblyInfo.cs
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/task001.csproj.CoreCompileInputs.cache
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/task001.dll
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/refint/task001.dll
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/task001.pdb
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/task001.genruntimeconfig.cache
+/home/home_book/Desktop/Examples/Practical/task001/obj/Debug/net8.0/ref/task001.dll
