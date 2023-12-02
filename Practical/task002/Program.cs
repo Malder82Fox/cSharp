@@ -17,6 +17,7 @@ for(int i = 0; i != arraySize; i++)
 {
     resultArray[i] = reversedNum + i;
 }
+
 Console.WriteLine(string.Join(" ", resultArray));
 // 'Console.WriteLine($"Your array: {resultArray}");' you can not display array use this code !!!!!
 // Displaing array use 'string.Join'
