@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/home_book/Desktop/Examples/Practical/task002/task002.csproj": {}
+    "/home/home_book/Desktop/Examples_001/Practical/task002/task002.csproj": {}
   },
   "projects": {
-    "/home/home_book/Desktop/Examples/Practical/task002/task002.csproj": {
+    "/home/home_book/Desktop/Examples_001/Practical/task002/task002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/home_book/Desktop/Examples/Practical/task002/task002.csproj",
+        "projectUniqueName": "/home/home_book/Desktop/Examples_001/Practical/task002/task002.csproj",
         "projectName": "task002",
-        "projectPath": "/home/home_book/Desktop/Examples/Practical/task002/task002.csproj",
+        "projectPath": "/home/home_book/Desktop/Examples_001/Practical/task002/task002.csproj",
         "packagesPath": "/home/home_book/.nuget/packages/",
-        "outputPath": "/home/home_book/Desktop/Examples/Practical/task002/obj/",
+        "outputPath": "/home/home_book/Desktop/Examples_001/Practical/task002/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/home_book/.nuget/NuGet/NuGet.Config"
