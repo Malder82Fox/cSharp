@@ -1,0 +1,14 @@
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/bin/Debug/net8.0/Example011_ArrayLibrary
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/bin/Debug/net8.0/Example011_ArrayLibrary.deps.json
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/bin/Debug/net8.0/Example011_ArrayLibrary.runtimeconfig.json
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/bin/Debug/net8.0/Example011_ArrayLibrary.dll
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/bin/Debug/net8.0/Example011_ArrayLibrary.pdb
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.dll
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/refint/Example011_ArrayLibrary.dll
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.pdb
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/home/home_book/Desktop/Examples_001/Example011_ArrayLibrary/obj/Debug/net8.0/ref/Example011_ArrayLibrary.dll
