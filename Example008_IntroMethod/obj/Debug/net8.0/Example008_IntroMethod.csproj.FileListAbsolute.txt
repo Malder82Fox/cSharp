@@ -1,0 +1,14 @@
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/bin/Debug/net8.0/Example008_IntroMethod
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/bin/Debug/net8.0/Example008_IntroMethod.deps.json
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/bin/Debug/net8.0/Example008_IntroMethod.runtimeconfig.json
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/bin/Debug/net8.0/Example008_IntroMethod.dll
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/bin/Debug/net8.0/Example008_IntroMethod.pdb
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/Example008_IntroMethod.AssemblyInfoInputs.cache
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/Example008_IntroMethod.AssemblyInfo.cs
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/Example008_IntroMethod.csproj.CoreCompileInputs.cache
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/Example008_IntroMethod.dll
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/refint/Example008_IntroMethod.dll
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/Example008_IntroMethod.pdb
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/Example008_IntroMethod.genruntimeconfig.cache
+/home/home_book/Desktop/Examples_001/Example008_IntroMethod/obj/Debug/net8.0/ref/Example008_IntroMethod.dll
