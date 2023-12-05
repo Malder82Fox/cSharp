@@ -1,0 +1,15 @@
+/home/home_book/Desktop/Examples_001/Practical/task203/bin/Debug/net8.0/task203
+/home/home_book/Desktop/Examples_001/Practical/task203/bin/Debug/net8.0/task203.deps.json
+/home/home_book/Desktop/Examples_001/Practical/task203/bin/Debug/net8.0/task203.runtimeconfig.json
+/home/home_book/Desktop/Examples_001/Practical/task203/bin/Debug/net8.0/task203.dll
+/home/home_book/Desktop/Examples_001/Practical/task203/bin/Debug/net8.0/task203.pdb
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/task203.GeneratedMSBuildEditorConfig.editorconfig
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/task203.AssemblyInfoInputs.cache
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/task203.AssemblyInfo.cs
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/task203.csproj.CoreCompileInputs.cache
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/task203.sourcelink.json
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/task203.dll
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/refint/task203.dll
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/task203.pdb
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/task203.genruntimeconfig.cache
+/home/home_book/Desktop/Examples_001/Practical/task203/obj/Debug/net8.0/ref/task203.dll
